@@ -11,23 +11,23 @@ Regular text
 
 
 ### Lists
-###### Unordered
+###### Bullet
 - item 1
 - item 2
 - item 3
 
-###### Ordered
+###### Numbered
 1. item 1
 2. item 2
 3. item 3
 
 
-### Links
-\[I am an inline link\]\(http://www.pinterest.com\) => [I am an inline link](http://www.pinterest.com) 
-
+### Hyperlinks
 Visible link: http://www.pinterest.com
 
-\[Pull Requests\]\(../../pulls/\) => Relative link [Pull Requests](../../pulls/).
+[I am an inline link](http://www.pinterest.com) 
+
+Relative link [Pull Requests](../../pulls/).
 
 
 ### Emphasis
